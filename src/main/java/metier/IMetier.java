@@ -1,6 +1,6 @@
-package instanciation_statique.metier;
+package metier;
 
-import instanciation_statique.dao.IDao;
+import dao.IDao;
 
 public interface IMetier {
 

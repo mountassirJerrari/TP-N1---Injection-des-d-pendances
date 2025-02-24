@@ -1,4 +1,4 @@
-package instanciation_statique.dao;
+package dao;
 
 public interface IDao {
     double getData();

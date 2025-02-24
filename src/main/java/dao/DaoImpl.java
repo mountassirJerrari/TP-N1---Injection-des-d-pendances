@@ -1,4 +1,4 @@
-package instanciation_statique.dao;
+package dao;
 
 public class DaoImpl implements IDao{
     @Override
